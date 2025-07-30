@@ -83,5 +83,7 @@ Ini adalah proyek sederhana untuk belajar kolaborasi menggunakan Git & Android S
   - Fungsi: Menangani aksi saat tombol btnSubmit ditekan, lalu menampilkan hasil input ke layar.
 
 ## 📸 Screenshot
-  
+![Screenshot_20250730_131255_app2-colab](https://github.com/user-attachments/assets/f6471f99-fecf-47f5-a6d2-2248f650eb0d)
+![Screenshot_20250730_131235_app2-colab](https://github.com/user-attachments/assets/9814ebfb-bcce-4f3c-8d84-4ba0703e99cd)
+
   
